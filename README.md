@@ -17,7 +17,7 @@ You can Create Your Portfolio Website like this : [https://vaibhavhariaramani.gi
 4.) Click Create repository.
   
 ## step 2: Creating your site
-Before you can create your site, you must [download this repository](https://github.com/vaibhavhariaramani/Portfolio-template/archive/master.zip) for your site on GitHub. 
+Before you can create your site, you must [download this repository](https://github.com/vaibhavhariaramani/Portfolio-template-1/archive/master.zip) for your site on GitHub. 
 
 On GitHub,make your repository is created by navigating to your site's repository.
 
@@ -62,11 +62,16 @@ Now,You have to upload these files using **GIT** Method to your Repositories.
 ## …and you're done!
 Fire up a browser and go to https://username.github.io.
 
+## See my Youtube video for demonstration.
+
+
 # Resources 
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
+(https://sites.google.com/view/geeky-traveller/)[https://sites.google.com/view/geeky-traveller/]
+(https://vaibhavhariaramani.github.io/blogs/)[https://vaibhavhariaramani.github.io/blogs/]
 
-https://sites.google.com/view/geeky-traveller/
+
 
 ### Don't forget to tag us
 
